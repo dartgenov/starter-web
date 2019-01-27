@@ -14,5 +14,6 @@ New section
 
 ## How to contribute
 
+Please fork this repository.
 
 2014 Git.Training.
