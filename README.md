@@ -19,3 +19,5 @@ New section
 Please fork this repository.
 
 2014 Git.Training.
+
+All rights reserved.
